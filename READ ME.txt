@@ -1,0 +1,22 @@
+TechNova Employee Attrition Prediction
+
+Overview
+This project uses data-driven machine learning techniques to predict employee churn at TechNova Solutions.
+
+Key Steps:
+1. Data Understanding & EDA  
+2. Data Preprocessing & Feature Engineering  
+3. Model Training & Evaluation  
+4. Model Explain ability using SHAP  
+5. Actionable HR Recommendations
+
+Results
+- Best Model: Random Forest  
+- Accuracy: ~85-90%  
+- Key Factors: Satisfaction Level, Overtime Hours, Work-Life Balance, Performance Rating
+
+Technologies
+Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, SHAP
+
+Author:
+Amandeep Singh
